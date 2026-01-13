@@ -11,9 +11,9 @@ const SITE_CONFIG = {
 
     // Informações do Evento
     event: {
-        date: "15 de Março, 2025",
-        time: "14:00h",
-        location: "Salão de Festas - Casa da Mãe",
+        date: "16 de Maio, 2026",
+        time: "11:00h",
+        location: "Cantinho do Pastor - Rua F, n° 13 - Figueira, Duque de Caxias (Rua sem saída)",
         description: "Junte-se a nós para celebrar o início de uma nova jornada!"
     },
 
