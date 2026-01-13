@@ -1,0 +1,47 @@
+[
+  {
+    "query": "A beautiful romantic couple photo for bridal shower website hero section",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/81rkhfOY2YL._AC_UF894,1000_QL80_.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 119971,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9164821626077371,
+      "file_name": "casal_hero_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A beautiful romantic couple photo for bridal shower website hero section",
+    "image_info": {
+      "url": "https://fetch.getnarrativeapp.com/static/e60f65f0-0ac1-480d-9f0b-89edab91bfc2/Couple-facing-each-other-kissing-and-hugging-with-lighthouse-in-the-background.jpg?w=1500",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 292283,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.8933578653522828,
+      "file_name": "casal_hero_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A beautiful romantic couple photo for bridal shower website hero section",
+    "image_info": {
+      "url": "https://media.greatbigphotographyworld.com/wp-content/uploads/2022/04/wedding-poses.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 116468,
+      "width": 926,
+      "height": 610,
+      "total_pixels": 564860,
+      "basic_score": 0.8757725009726365,
+      "file_name": "casal_hero_1.jpg"
+    },
+    "llm_score": null
+  }
+]
